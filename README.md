@@ -2,6 +2,8 @@
 In the course of Evoltuionarry computation and design we explore, the various applications of Genetic algorithms and different areas in which they can be
 applied.
 
+Find the link to the soft-robot evolutions videos [here](https://noblehusein6.wixsite.com/website-1/evolutionary-computation-and-design)
+
 TSP: We attempt to solve the age old travelling salesman Problem with a custom made Evolutionary algorithm that uses a list representation to search the shortest
      distance between different cities.
      
